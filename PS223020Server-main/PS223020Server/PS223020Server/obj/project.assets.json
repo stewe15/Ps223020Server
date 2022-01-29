@@ -1429,11 +1429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
       "projectName": "PS223020Server",
-      "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server\\PS223020Server.csproj",
       "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server\\obj\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1453,20 +1453,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
-              "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
             },
-            "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj"
             },
-            "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
-              "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.Core\\PS223020Server.Core.csproj"
             },
-            "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-              "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
             },
-            "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
+            "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj"
             }
           }
         }

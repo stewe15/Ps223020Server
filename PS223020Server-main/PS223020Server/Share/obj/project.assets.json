@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
       "projectName": "Share",
-      "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
       "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\obj\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

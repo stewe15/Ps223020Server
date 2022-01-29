@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
         "projectName": "PS223020Server.BusinessLogic.Core",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
         "projectName": "PS223020Server.BusinessLogic",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\PS223020Server.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,14 +87,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
-                "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.BusinessLogic.Core\\PS223020Server.BusinessLogic.Core.csproj"
               },
-              "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-                "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
               },
-              "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj": {
-                "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
         "projectName": "PS223020Server.DataAccess.Core",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
         "projectName": "Share",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\Share.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\Share\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\Share\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

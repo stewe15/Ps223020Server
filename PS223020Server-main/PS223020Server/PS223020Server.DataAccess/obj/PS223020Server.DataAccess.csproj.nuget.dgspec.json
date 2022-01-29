@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
         "projectName": "PS223020Server.DataAccess.Core",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
         "projectName": "PS223020Server.DataAccess",
-        "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\PS223020Server.DataAccess.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
-                "projectPath": "C:\\Users\\StudentDev\\Downloads\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
+              "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj": {
+                "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\higab\\PS223020Server-main\\PS223020Server\\PS223020Server.DataAccess.Core\\PS223020Server.DataAccess.Core.csproj"
               }
             }
           }
